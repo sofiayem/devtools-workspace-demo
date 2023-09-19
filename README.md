@@ -4,7 +4,7 @@ A demo website for the Chrome DevTools workspace tutorial.
 Clone this repo and run it with a local web server. For example:
 
 ```
-cd ~/Desktop/app
+cd ~/Desktop/devtools-workspace-demo
 # If your Python version is 3.X
 # On Windows, try "python -m http.server" or "py -3 -m http.server"
 python3 -m http.server
